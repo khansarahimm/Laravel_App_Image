@@ -2,13 +2,9 @@
 
 A robust Inventory Management System built with **Laravel 10** and **MySQL**, designed to streamline your inventory tracking, sales, and purchasing processes.
 
-![Dashboard](https://github.com/user-attachments/assets/1df45f1d-aaed-4299-9b90-35e7f47dc7ea)
-
 ## 🗂️ Database Design
 
 The system is structured using a clear and efficient database schema:
-
-![Database Diagram](https://github.com/fajarghifar/inventory-management-system/assets/71541409/0c7d4163-96f5-4724-8741-4615e52ecf98)
 
 ## 🌟 Key Features
 
@@ -31,8 +27,7 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository:**
 
-    ```bash
-    git clone https://github.com/fajarghifar/inventory-management-system
+  git clone https://github.com/khansarahimm/Laravel_App_Image
     ```
 
 2. **Navigate to the project folder:**
@@ -199,8 +194,5 @@ Licensed under the [MIT License](LICENSE).
 
 ---
 
-> Find me on [GitHub](https://github.com/fajarghifar) &nbsp;&middot;&nbsp; [YouTube](https://www.youtube.com/@fajarghifar) &nbsp;&middot;&nbsp; [Instagram](https://instagram.com/fajarghifar) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/in/fajarghifar/)
-
----
 # Laravel_App_Image
 # laravel_App
